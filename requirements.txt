@@ -1,0 +1,6 @@
+shiny
+scikit-learn
+pandas
+matplotlib
+numpy
+jinja2

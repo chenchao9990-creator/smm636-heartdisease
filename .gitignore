@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+rsconnect-python/
+*.pdf
+Shiny-Python-20260218
